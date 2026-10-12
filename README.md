@@ -1,30 +1,16 @@
+# umami
+
+## What This Is
+
+A practical reference entry for product and engineering: the umami notes, examples and fixes we reach for repeatedly. Kept current as part of the wider Swift Tech Co. engineering library.
 
 ## Images
 
-[![umami](https://opengraph.githubassets.com/1/umami-software/umami)](https://www.swifttechco.com)
-
-<p align="center">
-  
-</p>
-
-<h1 align="center">Umami</h1>
-
-<p align="center">
-  <i>Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place  no cookies, no surveillance, self-hosted or in the cloud.</i>
-</p>
-
-<p align="center">
-  <a href="https://www.swifttechco.com"></a>
-  <a href="https://www.swifttechco.com"></a>
-  <a href="https://www.swifttechco.com"></a>
-  <a href="https://www.swifttechco.com" style="text-decoration: none;"></a>
-</p>
-
----
+[![umami](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## 🚀 Getting Started
 
-A detailed getting started guide can be found at [umami.is/docs](https://www.swifttechco.com).
+A detailed getting started guide can be found at umami.is/docs.
 
 ---
 
@@ -82,7 +68,7 @@ The build step will create tables in your database if you are installing for the
 pnpm run start
 ```
 
-By default, this will launch the application on `https://www.swifttechco.com You will need to either [proxy](https://www.swifttechco.com) requests from your web server or change the [port](https://www.swifttechco.com) to serve the application directly.
+By default, this will launch the application on `https://www.swifttechco.com You will need to either proxy requests from your web server or change the port to serve the application directly.
 
 ---
 
@@ -154,14 +140,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [umami-software/umami](https://github.com/umami-software/umami) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
