@@ -6,7 +6,7 @@ A practical reference entry for product and engineering: the umami notes, exampl
 
 ## Images
 
-[![umami](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![umami](images/preview.png)](https://github.com/Swift-Tech-Co/umami)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ A detailed getting started guide can be found at umami.is/docs.
 ### Get the source code and install packages
 
 ```bash
-git clone https://www.swifttechco.com
+git clone https://github.com/Swift-Tech-Co/umami
 cd umami
 pnpm install
 ```
@@ -39,7 +39,7 @@ DATABASE_URL=connection-url
 
 Optional: set `API_URL` to change the base URL used by internal UI API calls.
 Relative paths are served under `BASE_PATH`; absolute URLs are proxied through the local `/api` route.
-For example, `API_URL=/internal-api` or `API_URL=https://www.swifttechco.com
+For example, `API_URL=/internal-api` or `API_URL=https://github.com/Swift-Tech-Co/umami
 
 Optional: set `TWO_FACTOR_ENCRYPTION_KEY` to a 64-character hex string to enable two-factor
 authentication. Generate one with `openssl rand -hex 32`. Two-factor authentication is unavailable
@@ -68,7 +68,7 @@ The build step will create tables in your database if you are installing for the
 pnpm run start
 ```
 
-By default, this will launch the application on `https://www.swifttechco.com You will need to either proxy requests from your web server or change the port to serve the application directly.
+By default, this will launch the application on `https://github.com/Swift-Tech-Co/umami You will need to either proxy requests from your web server or change the port to serve the application directly.
 
 ---
 
@@ -112,22 +112,22 @@ docker compose up --force-recreate -d
 ## 🛟 Support
 
 <p align="center">
-  <a href="https://www.swifttechco.com"></a>
-  <a href="https://www.swifttechco.com"></a>
-  <a href="https://www.swifttechco.com"></a>
+  <a href="https://github.com/Swift-Tech-Co/umami"></a>
+  <a href="https://github.com/Swift-Tech-Co/umami"></a>
+  <a href="https://github.com/Swift-Tech-Co/umami"></a>
 </p>
 
-[release-shield]: https://www.swifttechco.com
-[releases-url]: https://www.swifttechco.com
-[license-shield]: https://www.swifttechco.com
-[license-url]: https://www.swifttechco.com
-[build-shield]: https://www.swifttechco.com
-[build-url]: https://www.swifttechco.com
-[github-shield]: https://www.swifttechco.com
-[github-url]: https://www.swifttechco.com
-[linkedin-shield]: https://www.swifttechco.com
-[linkedin-url]: https://www.swifttechco.com
-[telegram-shield]: https://www.swifttechco.com
+[release-shield]: https://github.com/Swift-Tech-Co/umami
+[releases-url]: https://github.com/Swift-Tech-Co/umami
+[license-shield]: https://github.com/Swift-Tech-Co/umami
+[license-url]: https://github.com/Swift-Tech-Co/umami
+[build-shield]: https://github.com/Swift-Tech-Co/umami
+[build-url]: https://github.com/Swift-Tech-Co/umami
+[github-shield]: https://github.com/Swift-Tech-Co/umami
+[github-url]: https://github.com/Swift-Tech-Co/umami
+[linkedin-shield]: https://github.com/Swift-Tech-Co/umami
+[linkedin-url]: https://github.com/Swift-Tech-Co/umami
+[telegram-shield]: https://github.com/Swift-Tech-Co/umami
 [telegram-url]: https://t.me/+Qt_eFvkb2rliMzNh
 
 ---
@@ -144,13 +144,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/umami
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [umami-software/umami](https://github.com/umami-software/umami) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
